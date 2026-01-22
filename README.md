@@ -14,11 +14,15 @@ A collection of my current favorite technologies for building and shipping. Most
 - [shadcn/ui](https://ui.shadcn.com)
 - [react-scan](https://github.com/aidenybai/react-scan) - detect performance issues
 
+### Web Extensions
+- [WXT](https://wxt.dev)
+
 ### Backend
 - [Convex](https://github.com/get-convex/convex-backend)
   - [confect](https://github.com/rjdellecese/confect) - Effect integration
 - [Drizzle](https://orm.drizzle.team)
 - [Effect](https://effect.website)
+  - [Effect Solutions](https://www.effect.solutions)
   - [@effect/language-service](https://github.com/Effect-TS/language-service)
   - [@effect/vitest](https://github.com/Effect-TS/effect/tree/main/packages/vitest)
   - [effect-atom](https://github.com/tim-smart/effect-atom)
@@ -41,7 +45,9 @@ A collection of my current favorite technologies for building and shipping. Most
 - [Tauri](https://tauri.app)
 
 ### Dev Tools
-- [oxc](https://oxc.rs) - oxlint, oxfmt
+- [oxc](https://oxc.rs) - oxlint, oxfmt (Tailwind CSS class sorting)
+- [TypeScript (Go)](https://github.com/microsoft/typescript-go)
+- [oxlint-tsgolint](https://github.com/oxc-project/oxlint-tsgolint)
 
 ### Utilities
 - [remeda](https://remedajs.com) - lodash alternative
@@ -64,6 +70,10 @@ A collection of my current favorite technologies for building and shipping. Most
 ## DevOps
 - [Nix](https://nixos.org) - reproducible builds
 
+## Security
+- [Socket](https://socket.dev) - dependency security
+
 ## VCS
 - [jj](https://github.com/jj-vcs/jj) - Jujutsu, git-compatible VCS
+- [jj-ryu](https://github.com/dmmulroy/jj-ryu) - stacked PRs for Jujutsu
 - [Prek](https://github.com/j178/prek) - Pre-commit hooks
