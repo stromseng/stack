@@ -48,6 +48,7 @@ A collection of my current favorite technologies for building and shipping. Most
 - [oxc](https://oxc.rs) - oxlint, oxfmt (Tailwind CSS class sorting)
 - [TypeScript (Go)](https://github.com/microsoft/typescript-go)
 - [oxlint-tsgolint](https://github.com/oxc-project/oxlint-tsgolint)
+- [Changesets](https://github.com/changesets/changesets) - versioning and changelogs
 
 ### Utilities
 - [remeda](https://remedajs.com) - lodash alternative
