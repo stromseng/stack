@@ -54,6 +54,8 @@ A collection of my current favorite technologies for building and shipping. Most
 - [remeda](https://remedajs.com) - lodash alternative
 - [superjson](https://github.com/blitz-js/superjson) - JSON with dates, maps, bigints
 - [chokidar](https://github.com/paulmillr/chokidar) - file watching
+- [shoehorn](https://github.com/total-typescript/shoehorn) - partial test data with type safety
+- [ts-reset](https://github.com/mattpocock/ts-reset) - better types for built-in JS APIs
 
 ## Python
 - [uv](https://github.com/astral-sh/uv) - fast package manager
