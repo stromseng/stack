@@ -31,7 +31,7 @@ A collection of my current favorite technologies for building and shipping. Most
 - [Better Auth](https://www.better-auth.com)
 
 ### Infrastructure
-- [Alchemy](https://github.com/alchemy-run/alchemy) - IaC in TypeScript
+- [Alchemy](https://github.com/alchemy-run/alchemy) - Effect-native IaC in TypeScript
 - [Cloudflare](https://developers.cloudflare.com) - Workers, Pages, D1, R2
 - [Turso](https://turso.tech) - SQLite for the edge
 
@@ -46,6 +46,7 @@ A collection of my current favorite technologies for building and shipping. Most
 
 ### Dev Tools
 - [oxc](https://oxc.rs) - oxlint, oxfmt (Tailwind CSS class sorting)
+- [Portless](https://github.com/vercel-labs/portless) - stable local URLs instead of port numbers
 - [TypeScript (Go)](https://github.com/microsoft/typescript-go)
 - [oxlint-tsgolint](https://github.com/oxc-project/oxlint-tsgolint)
 - [Changesets](https://github.com/changesets/changesets) - versioning and changelogs
